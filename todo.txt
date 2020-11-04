@@ -1,0 +1,2 @@
+1 add a function that checks for winning combinations
+2 check app.js line 41 - need some logging to make sure I'm accessing variable names correctly

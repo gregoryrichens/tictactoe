@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "a tic tac toe game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryrichens/tictactoe.git"
+  },
+  "author": "Gregory Richens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryrichens/tictactoe/issues"
+  },
+  "homepage": "https://github.com/gregoryrichens/tictactoe#readme",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
+}
